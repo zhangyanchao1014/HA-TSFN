@@ -13,5 +13,4 @@
   title={Hybrid-Attention Enhanced Two-Stream Fusion Network for Video Venue Prediction},  
   author={Zhang, Yanchao and Min, Weiqing and Nie, Liqiang and Jiang, Shuqiang},  
   journal={IEEE Transactions on Multimedia (Accepted)},  
-  year={2020},  
-} 
+  year={2020}} 
