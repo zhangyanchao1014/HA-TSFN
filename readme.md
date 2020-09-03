@@ -9,11 +9,11 @@
  Our model is implemented by Tensorflow1.4 and Python2.7
 
  **4. Reference**  
-'''
+```
 @article{Zhang-HATSFN-TMM2020,  
   title={Hybrid-Attention Enhanced Two-Stream Fusion Network for Video Venue Prediction},  
   author={Yanchao Zhang, and Weiqing Min, and Liqiang Nie, and Shuqiang Jiang},  
   journal={IEEE Transactions on Multimedia (Accepted)},  
   year={2020}  
   } 
-'''
+```
